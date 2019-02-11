@@ -3,7 +3,7 @@
 PyCards is a card game simulation library written in Python (3.6). Currently PyCards implements standard BlackJack rules
 and in the future might support more game types.
 
-The library is designed to take in player updates objects and transform an immutable game state object with the update, 
+The library is designed to take in player update objects and transform an immutable game state object with the update, 
 or raise an exception if the update is invalid.
 
 ## Basic Operations
